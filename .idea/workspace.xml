@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60cf1265-1095-4ff9-8ad0-5976fb36df73" name="Changes" comment="hola">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mx/edu/utez/pruebagit/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mx/edu/utez/pruebagit/model/user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mx/edu/utez/pruebagit/utils/DatabaseConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -12,6 +16,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,11 +34,13 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2hkL4JtBnudHgFi8tZRkyTFERED" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,6 +55,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "copyright",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -149,7 +163,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718132937820</updated>
-      <workItem from="1718132938930" duration="2137000" />
+      <workItem from="1718132938930" duration="3218000" />
+      <workItem from="1718138672904" duration="54000" />
+      <workItem from="1718390877697" duration="2007000" />
     </task>
     <task id="LOCAL-00001" summary="hola">
       <option name="closed" value="true" />
@@ -159,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718133748212</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hola">
+      <option name="closed" value="true" />
+      <created>1718135079410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718135079410</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
